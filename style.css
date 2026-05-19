@@ -1,9 +1,4 @@
 
-*{
-  /* Checks for Arial, then Helvetica, then any sans-serif font */
-  font-family: Arial, Helvetica, sans-serif; 
-}
-
 #btn{
   background-color: #F0FFFF;
   border: none;
